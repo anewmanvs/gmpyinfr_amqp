@@ -22,7 +22,7 @@ Módulo com funções e classes úteis à utilização do protocolo AMQP para me
 
 Demais distribuições linux devem funcionar sem problemas mas têm comandos e processo de instalação diferentes.
 
-Para instalação deste pacote, faça;
+Para instalação deste pacote, faça:
 
 ```bash
 pip install gmpyinfr_amqp
