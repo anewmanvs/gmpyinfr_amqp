@@ -8,3 +8,4 @@
 
 # except
 !setup.cfg
+!gmpyinfr_amqp/examples/example_conf.cfg
